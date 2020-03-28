@@ -1,0 +1,73 @@
+.header{
+	background: rgb(59, 12, 12);
+	border: none;
+	margin: none;
+	border-radius: 0px;
+}
+
+.header-right a:hover{
+	border: 2px solid #D14233;
+	color: tomato; 
+}
+
+.brand-logo{
+	height:85px;
+	width: 235px;
+	padding-left: 35px;
+	padding-top: 5px;
+	padding-bottom: 5px; 
+}
+
+.header .header-right > li > a {
+    color: tomato;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+.header-right{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.startups{
+	border: 2px solid #D14233;
+}
+
+.search-section{
+	width: 100%;
+}
+
+.add-on{
+	background-color: #33CCFF;
+}
+
+.box{
+	height: 150px;
+	margin-top: 20px;
+}
+
+.footer{
+	background-color: rgb(59, 12, 12);
+	height: ;
+	color: white;
+	padding: 20px 100px 15px 100px;
+}
+
+.startup-image{
+	padding: 20px 10px 10px 10px;
+	border: 1px solid lightgray;
+}
+
+.footer{
+	margin-top: 50px;
+}
+
+.footer li{
+	list-style-type: none;
+	float: right;
+	margin-right: 20px;
+}
+

@@ -1,0 +1,98 @@
+body, html{
+	height: 100%;
+	margin: none;
+}
+
+.bckgrnd{
+
+	background-image: 
+	linear-gradient(
+		rgba(49, 12, 12, 0.76),
+		rgba(49, 12, 12, 0.76)
+		),
+	url('images/helloquence.jpg');
+	height: 100%;
+	position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.header{
+	background: transparent;
+	border: none;
+	margin: none;
+}
+
+.header-right a:hover{
+	border: 2px solid #D14233;
+	color: tomato; 
+}
+
+.brand-logo{
+	height:95px;
+	width: 240px;
+	padding-left: 35px; 
+}
+
+.header .header-right > li > a {
+    color: tomato;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+.header-right{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.home{
+	border: 2px solid #D14233;
+}
+
+.middle-sec{
+	margin-top: 50px;
+	margin-top: 50px;
+}
+
+.middle-text{
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+#main{
+	font-size: 50px;
+}
+
+.middle-button{
+	background-color: #33CCFF;
+	height: 40px;
+	width: 120px;
+	border: none;
+	border-radius: 2px;
+}
+
+.register{
+	color: white;
+	padding: 5px;
+	font-size: 15px;
+}
+
+.footer{
+	background-color: rgb(59, 12, 12);
+	height: ;
+	color: white;
+	padding: 20px 100px 15px 100px;
+}
+
+.footer li{
+	list-style-type: none;
+	float: right;
+	margin-right: 20px;
+}
+
